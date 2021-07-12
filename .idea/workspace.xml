@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7afa3fe3-703f-4fad-8f92-ea85373e59f2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views-cache/footer.067eafe434a64ae560e02e6f41d2b84e.rtpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/views-cache/footer.067eafe434a64ae560e02e6f41d2b84e.rtpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views-cache/header.067eafe434a64ae560e02e6f41d2b84e.rtpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/views-cache/header.067eafe434a64ae560e02e6f41d2b84e.rtpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views-cache/index.067eafe434a64ae560e02e6f41d2b84e.rtpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/views-cache/index.067eafe434a64ae560e02e6f41d2b84e.rtpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,16 +61,16 @@
         <entry file="file://$PROJECT_DIR$/vendor/hcodebr/php-classes/src/Page.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="637">
-              <caret line="45" column="30" lean-forward="true" selection-start-line="45" selection-start-column="30" selection-end-line="45" selection-end-column="30" />
+              <caret line="45" column="30" selection-start-line="45" selection-start-column="30" selection-end-line="45" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/views/header.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="759">
+              <caret line="114" column="33" selection-start-line="114" selection-start-column="33" selection-end-line="114" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -73,17 +78,41 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/footer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="678">
+              <caret line="95" column="48" selection-start-line="95" selection-start-column="48" selection-end-line="95" selection-end-column="48" />
+              <folding>
+                <element signature="n#div#0;n#!!top" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/index.html">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1232">
+              <caret line="197" column="47" selection-start-line="197" selection-start-column="47" selection-end-line="197" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/site/carrinho.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="773">
+              <caret line="342" column="7" lean-forward="true" selection-start-line="245" selection-start-column="2" selection-end-line="342" selection-end-column="7" />
+              <folding>
+                <element signature="n#div#5;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/site/index.html">
+          <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="8" selection-start-column="8" selection-end-column="8" />
+              <caret selection-end-line="114" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -92,7 +121,7 @@
         <entry file="file://$PROJECT_DIR$/vendor/rain/raintpl/example-simple.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
-              <caret line="23" column="19" lean-forward="true" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="19" />
+              <caret line="23" column="19" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -106,6 +135,20 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>js</find>
+      <find>src</find>
+      <find>href</find>
+      <find>&quot;js/</find>
+      <find>&quot;img/</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>res/site/css/</replace>
+      <replace>&quot;res/site/js/</replace>
+      <replace>&quot;res/site/img/</replace>
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -116,9 +159,11 @@
         <option value="$PROJECT_DIR$/vendor/hcodebr/php-classes/src/DB/Sql.php" />
         <option value="$PROJECT_DIR$/vendor/hcodebr/php-classes/src/Page.php" />
         <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/views/header.html" />
+        <option value="$PROJECT_DIR$/res/carrinho.html" />
+        <option value="$PROJECT_DIR$/res/site/carrinho.html" />
         <option value="$PROJECT_DIR$/views/footer.html" />
         <option value="$PROJECT_DIR$/views/index.html" />
+        <option value="$PROJECT_DIR$/views/header.html" />
       </list>
     </option>
   </component>
@@ -155,50 +200,18 @@
             <path>
               <item name="ecommerce" type="b2602c69:ProjectViewProjectNode" />
               <item name="ecommerce" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ecommerce" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ecommerce" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="site" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ecommerce" type="b2602c69:ProjectViewProjectNode" />
               <item name="ecommerce" type="462c0819:PsiDirectoryNode" />
               <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="hcodebr" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ecommerce" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ecommerce" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="hcodebr" type="462c0819:PsiDirectoryNode" />
-              <item name="php-classes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ecommerce" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ecommerce" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="hcodebr" type="462c0819:PsiDirectoryNode" />
-              <item name="php-classes" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ecommerce" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ecommerce" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="hcodebr" type="462c0819:PsiDirectoryNode" />
-              <item name="php-classes" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="DB" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ecommerce" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ecommerce" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="rain" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ecommerce" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ecommerce" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="rain" type="462c0819:PsiDirectoryNode" />
-              <item name="raintpl" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -212,12 +225,16 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/vendor" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/res" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\ecommerce\res\site" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\ecommerce\res" />
       <recent name="C:\ecommerce\vendor" />
     </key>
   </component>
@@ -243,12 +260,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1626112828247</updated>
-      <workItem from="1626112829461" duration="3965000" />
+      <workItem from="1626112829461" duration="5444000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3965000" />
+    <option name="totallyTimeSpent" value="5444000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -337,14 +354,14 @@
     <entry file="file://$PROJECT_DIR$/vendor/rain/raintpl/example-simple.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="23" column="19" lean-forward="true" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="19" />
+          <caret line="23" column="19" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vendor/hcodebr/php-classes/src/Page.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="637">
-          <caret line="45" column="30" lean-forward="true" selection-start-line="45" selection-start-column="30" selection-end-line="45" selection-end-column="30" />
+          <caret line="45" column="30" selection-start-line="45" selection-start-column="30" selection-end-line="45" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -358,24 +375,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/footer.html">
+    <entry file="file://$PROJECT_DIR$/res/site/carrinho.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="773">
+          <caret line="342" column="7" lean-forward="true" selection-start-line="245" selection-start-column="2" selection-end-line="342" selection-end-column="7" />
+          <folding>
+            <element signature="n#div#5;n#body#0;n#html#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/header.html">
+    <entry file="file://$PROJECT_DIR$/views/footer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="678">
+          <caret line="95" column="48" selection-start-line="95" selection-start-column="48" selection-end-line="95" selection-end-column="48" />
+          <folding>
+            <element signature="n#div#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/index.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1232">
+          <caret line="197" column="47" selection-start-line="197" selection-start-column="47" selection-end-line="197" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/site/index.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
+          <caret selection-end-line="114" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="759">
+          <caret line="114" column="33" selection-start-line="114" selection-start-column="33" selection-end-line="114" selection-end-column="33" />
         </state>
       </provider>
     </entry>
